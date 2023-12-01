@@ -18,7 +18,7 @@
     },
     {
       "date": "09.11.2023",
-      "note": "Revised text and added more info all over the site. Especially in the FAQ and helpful tips. New button linking to Mokeys big Superglide-Guide. Hid analytics when first opening the site, automatically expands when starting the training"
+      "note": "Revised text and more Info all over the site. Especially in FAQ and Helpful Tips. New \"Superglide Tutorial\" button. Hid analytics with auto expand."
     },
     {
       "date": "15.11.2023",
@@ -35,6 +35,7 @@
     {
       "date": "01.12.2023",
       "note": "Improvements to color-contrast. Moved tips and FAQ into the middle. New Home Button. New Changelog. New graph in \"Show all stats\". Small text tweaks."
+    },
     }
   ]
 }
